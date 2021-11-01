@@ -2,3 +2,7 @@ body{
     margin: 12px;
     padding-left: inherit;
 }
+.header{
+    background-color: red;
+    font-size: 14px;
+}
